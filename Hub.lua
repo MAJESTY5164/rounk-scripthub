@@ -7,7 +7,7 @@ updatespeed = 0
 
 -- User Status
 
-Admin = {
+Staff = {
 
 }
 
@@ -290,7 +290,7 @@ scripts = {
     "Sky Hub", "https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt", false,
     "newtab", "Scripts", "flame",
     "new", "Arsenal", "",
-    "Modded Guns wip", "https://raw.githubusercontent.com/MAJESTY5164/ArsenalGunModding/refs/heads/main/Source.lua", false,
+    "Modded Guns", "https://raw.githubusercontent.com/MAJESTY5164/ArsenalGunModding/refs/heads/main/Example", false,
     "new", "Bedwars", "",
     "AlSploit", "https://raw.githubusercontent.com/AlSploit/AlSploit/main/AlSploit/Bedwars/Loader.lua", false,
     "AlSploit ( No Loading Screen )", "https://pastebin.com/raw/C45F8Tpk", true,
