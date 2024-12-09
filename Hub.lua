@@ -12,9 +12,6 @@ FullAccess = {
 
 Premium = {
     "Username", "HWID",
-    "Majesty", "A",
-    "Chillz", "B",
-    "dude", "C",
 }
 
 -- Functions
